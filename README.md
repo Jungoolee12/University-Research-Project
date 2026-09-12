@@ -11,4 +11,4 @@ Applied basic C++ programming skills to analyze code and perform computational e
 
 Compared several results using Visual Studio Code and adapted computational examples for video game applications.
 
-## (14 PowerPoint presentations were created, but they are not included in  this GitHub repository)
+# (14 PowerPoint presentations were created, but they are not included in  this GitHub repository)
